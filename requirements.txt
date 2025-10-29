@@ -1,6 +1,0 @@
-streamlit
-pandas
-selenium
-webdriver-manager
-python-dateutil
-openpyxl
